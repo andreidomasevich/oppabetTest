@@ -1,0 +1,5 @@
+Helper\FileReader.class
+Pages\BasePage.class
+Helper\CreditsGenerator.class
+Pages\AccountPage.class
+Pages\HomePage.class
